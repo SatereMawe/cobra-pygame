@@ -1,6 +1,8 @@
-# 🐍 Snake Pygame
+# 🐍 Cobra Pygame
 
-Jogo Snake feito com **Python** e **Pygame**. Este é um projeto de estudo para lógica de programação e desenvolvimento de jogos.
+![Demonstração do Jogo](assets/jogodemo.gif)
+
+Jogo da Cobrinha feito com **Python** e **Pygame**. Este é um projeto de estudo para lógica de programação e desenvolvimento de jogos.
 
 ## 🚀 Como rodar
 
@@ -14,17 +16,19 @@ python3 main.py
 
 ## 🎮 Controles
 
-| Tecla | Ação |
-| :--- | :--- |
-| ⬆️ ⬇️ ⬅️ ➡️ | Mover a cobra |
-| **P** | Pausar / Continuar |
-| **R** | Reiniciar |
-| **Q** | Sair |
+| Tecla       | Ação               |
+| :---------- | :----------------- |
+| ⬆️ ⬇️ ⬅️ ➡️ | Mover a cobra      |
+| **P**       | Pausar / Continuar |
+| **R**       | Reiniciar          |
+| **Q**       | Sair               |
 
 ## 🛠️ Tecnologias
-* Python 3
-* Pygame
-* Numpy
+
+- Python 3
+- Pygame
+- Numpy
 
 ---
-Desenvolvido por **Osmar Enzo** (osmar.cyber.dev)
+
+Desenvolvido por **Osmar Junior** (osmar.cyber.dev)
